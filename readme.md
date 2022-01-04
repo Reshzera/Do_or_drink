@@ -1,5 +1,5 @@
 # Do or drink
-This project is a mobile app developed with React Native. It is an app that the user can create his/her own [Do or Drink game](https://do-or-drink.com/?_atid=aNklPgO7jl26pMwm4ZOHseSM9ogYlR) (A very popular game among young people) and play with his friends directlly of his/her phone.
+This project is a mobile app developed with React Native. It is an app that the user can create his/her own [Do or Drink game](https://do-or-drink.com/?_atid=aNklPgO7jl26pMwm4ZOHseSM9ogYlR) (A very popular game among college students) and play with his friends directlly of his/her phone.
 
 <div>
   <h2>Game / Create Game</h2>
