@@ -1,5 +1,13 @@
 # Do or drink
-This project is a mobile app developed with React Native. It is an app that the user can create his/her own [Do or Drink game](https://do-or-drink.com/?_atid=aNklPgO7jl26pMwm4ZOHseSM9ogYlR) (A very popular game among young people) and play with his friends directlly of his/her phone. 
+This project is a mobile app developed with React Native. It is an app that the user can create his/her own [Do or Drink game](https://do-or-drink.com/?_atid=aNklPgO7jl26pMwm4ZOHseSM9ogYlR) (A very popular game among young people) and play with his friends directlly of his/her phone.
+
+<div>
+  <h2>Game / Create Game</h2>
+  
+  <img height="450px" src="https://github.com/Reshzera/Do_or_drink/blob/main/do_or_drink2.gif?raw=true"/>
+  <img height="450px" style="{margin-left: 30px;}" src="https://github.com/Reshzera/Do_or_drink/blob/main/do_or_drink1.gif?raw=true"/>
+</div>
+  
 ## Setup
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
@@ -32,4 +40,5 @@ Like `npm start`, but also attempts to open your app in the iOS Simulator if you
 
 #### `npm run android`
 
-Like `npm start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup). We also recommend installing Genymotion as your Android emulator. Once you've finished setting up the native build environment, there are two options for making the right copy of `adb` available to Create React Native App:
+Like `npm start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup). We also recommend installing Genymotion as your Android emulator. Once you've finished setting up the native build environment, there are two options for making the right copy of `adb` available to Create React Native App.
+
